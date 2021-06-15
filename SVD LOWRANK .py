@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon May 10 22:25:38 2021
 
-@author: vinod
-"""
 import numpy as np
 import pandas as pd
 import cv2
